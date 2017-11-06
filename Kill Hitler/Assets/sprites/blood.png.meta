@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 4a2566c0656ce924da62331464a681f0
+timeCreated: 1465822249
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blood_0
+    21300002: blood_1
+    21300004: blood_2
+    21300006: blood_3
+    21300008: blood_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: blood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 300
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 27}
+        - {x: -150, y: -10}
+        - {x: -128, y: -27}
+        - {x: 67, y: -27}
+        - {x: 100, y: -25}
+        - {x: 149, y: 1}
+        - {x: 150, y: 9}
+        - {x: 150, y: 27}
+    - name: blood_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 300
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: -69}
+        - {x: 120, y: -69}
+        - {x: 150, y: -24}
+        - {x: 150, y: 69}
+        - {x: -150, y: 69}
+        - {x: -150, y: -29}
+        - {x: -144, y: -42}
+        - {x: -107, y: -65}
+        - {x: -75, y: -69}
+        - {x: -15, y: -69}
+        - {x: 6, y: -63}
+        - {x: 38, y: -43}
+        - {x: 66, y: -61}
+    - name: blood_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 300
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -78.5}
+        - {x: 5, y: -60.5}
+        - {x: 45, y: -73.5}
+        - {x: 78, y: -86.5}
+        - {x: 87, y: -96.5}
+        - {x: 99, y: -96.5}
+        - {x: 120, y: -66.5}
+        - {x: 147, y: -71.5}
+        - {x: 150, y: -63.5}
+        - {x: 150, y: 96.5}
+        - {x: -150, y: 96.5}
+        - {x: -150, y: -67.5}
+        - {x: -149, y: -76.5}
+        - {x: -142, y: -93.5}
+        - {x: -139, y: -96.5}
+        - {x: -130, y: -96.5}
+        - {x: -127, y: -95.5}
+        - {x: -102, y: -88.5}
+        - {x: -73, y: -83.5}
+        - {x: -51, y: -96.5}
+    - name: blood_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 300
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -111}
+        - {x: 48, y: -107}
+        - {x: 63, y: -130}
+        - {x: 82, y: -130}
+        - {x: 101, y: -101}
+        - {x: 109, y: -110}
+        - {x: 122, y: -111}
+        - {x: 130, y: -100}
+        - {x: 150, y: -95}
+        - {x: 150, y: 130}
+        - {x: -150, y: 130}
+        - {x: -150, y: -90}
+        - {x: -140, y: -110}
+        - {x: -124, y: -127}
+        - {x: -110, y: -116}
+        - {x: -104, y: -101}
+        - {x: -92, y: -122}
+        - {x: -81, y: -115}
+        - {x: -70, y: -93}
+        - {x: -65, y: -107}
+        - {x: -57, y: -111}
+        - {x: -50, y: -98}
+        - {x: -40, y: -123}
+        - {x: -35, y: -130}
+        - {x: -24, y: -130}
+        - {x: -20, y: -128}
+        - {x: 3, y: -109}
+        - {x: 17, y: -100}
+        - {x: 33, y: -112}
+    - name: blood_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 300
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 201}
+        - {x: -150, y: -201}
+        - {x: 150, y: -201}
+        - {x: 150, y: 201}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
